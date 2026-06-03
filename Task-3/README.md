@@ -47,8 +47,7 @@ Task-3/
 ├── visualization.py
 ├── README.md
 │
-└── charts/
-    └── sales_by_category.png
+└── sales_by_category.png
 
 ## Conclusion
 
